@@ -1,0 +1,1 @@
+Frontend: Vite + React. Run with `npm install` and `npm run dev`

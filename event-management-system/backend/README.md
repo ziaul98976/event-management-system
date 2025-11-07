@@ -1,0 +1,1 @@
+Backend: Spring Boot app (Java 17). Run with `mvn spring-boot:run`
